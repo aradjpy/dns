@@ -238,7 +238,7 @@ chess: # by https://github.com/leecheeyong/chinese-chess
   type: CNAME
   value: cname.vercel-dns.com.
 
-corechat:
+corechat: # https://github.com/aradjpy aradforsure@gmaul.com; slack U0AJN9LJDGS
   ttl: 600
   type: CNAME
   value: aradjpy.github.io.
